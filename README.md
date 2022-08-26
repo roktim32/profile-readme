@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roktim</h1>
-<h3 align="center">I'm a Software Engineer and UI/UX Designer from Assam, India, working in web development and design stuff. I enjoy turning complex problems into simple, beautiful and intuitive designs. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that it is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many good projects. Also I'm looking for an entry-level position as a Software Engineer/Software Engineer Intern in a dynamic firm that values my technical skills and provides scope for updating my knowledge, I seek a company that will help me contribute to its development while concurrently aiding my personal growth.</h3>
+<h3 align="center">I'm a Software Engineer and UI/UX Designer from Assam, India, working in web development and design stuff. I enjoy turning complex problems into simple, beautiful and intuitive designs. 
+<br>
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that it is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many good projects.
+<br>
+Also I'm looking for an entry-level position as a Software Engineer/Software Engineer Intern in a dynamic firm that values my technical skills and provides scope for updating my knowledge, I seek a company that will help me contribute to its development while concurrently aiding my personal growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roktim32&label=Profile%20views&color=0e75b6&style=flat" alt="roktim32" /> </p>
 
