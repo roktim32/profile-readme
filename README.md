@@ -13,7 +13,7 @@ Also I'm looking for an entry-level position as a Software Engineer/Software Eng
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://www.roktim.live](https://www.roktim.live)
+- 👨‍💻 All of my projects are available at [https://www.roktim.live](https://www.roktim.tech)
 
 - 💬 Ask me about **HTML, CSS, JS, C++, Python and UI/UX**
 
