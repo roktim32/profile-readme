@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.roktim.tech](https://www.roktim.tech)
 
-- 💬 Ask me about **HTML, CSS, JS, C++, Python and UI/UX**
+- 💬 Ask me about **HTML, CSS, Javascript, React, C++, Python and UI/UX**
 
 - 📫 How to reach me **roktimsenapoty2@gmail.com**
 
