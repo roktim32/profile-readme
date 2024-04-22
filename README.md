@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/roktim___" target="blank"><img src="https://img.shields.io/twitter/follow/roktim___?logo=twitter&style=for-the-badge" alt="roktim___" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [https://www.roktim.tech](https://www.roktim.tech)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, C++, Python and UI/UX**
+- 💬 Ask me about **HTML, CSS, Javascript, React, NextJs, C++, Python and UI/UX**
 
 - 📫 How to reach me **roktimsenapoty2@gmail.com**
 
