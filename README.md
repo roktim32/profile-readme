@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://www.roktim.tech](https://www.roktim.tech)
+- 👨‍💻 All of my projects are available at [https://www.roktim.me](https://www.roktim.me)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, NextJs, C++, Python and UI/UX**
+- 💬 Ask me about **HTML, CSS, Javascript, React, NextJs, Node.js, Express.js, C++, Python and UI/UX**
 
 - 📫 How to reach me **roktimsenapoty2@gmail.com**
 
